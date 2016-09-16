@@ -11,8 +11,6 @@ $('#input').on('submit', function (event) {
 
   })
 
-
-
   //Appends info to DOM
   appendDom(values);
 
